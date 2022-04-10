@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Recipe>
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<section class="jumbotron text-center">
+    <div class="container">
+        <h1 class="jumbotron-heading">Recipe List</h1>
+        <p class="lead text-muted">Here is the list of all recipies.</p>
+        <p>
+            <a style=" padding: 16px; background-color: #9469ff; border: none; }" asp-controller="Home" asp-action="Search" class="btn btn-primary my-2">SEARCH RECIPES</a>
+            <!-- <a href="#" class="btn btn-secondary my-2">Secondary action</a>-->
+        </p>
+    </div>
+</section>
+
+<div class="album text-muted">
+    <div class="container">
+        <div class="row">
+            @Html.Partial("_RecipeList", Model)
+   
+        </div>
+    </div>
+</div>

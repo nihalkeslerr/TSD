@@ -1,0 +1,56 @@
+﻿@model Recipe
+@{
+    ViewData["Title"] = "Edit";
+    
+}
+
+    <div class="container mt-5">
+        <div class="row">
+
+            <div class="col-md-8">
+                <div class="card">
+                    <div class="card-body">
+                        <form>
+                            <h5 class="card-title">@Model.Name</h5>
+
+                            <label>Time</label>
+
+                            <input class="card-text" value=@Model.time id="txt_time" name="txt_time"> </input>
+                            <br />
+
+                            <label>Ingredients</label>
+
+                            <textarea class="card-text" id="txt_ingredients" name="txt_ingredients" rows="6" cols="30">@Model.ingredients</textarea>
+
+                            <br />
+                            <label>Description</label>
+
+                            <textarea class="card-text" id="txt_desc" name="txt_desc" rows="6" cols="50">@Model.Description</textarea>
+
+                            <br />
+                            <label>Difficulty</label>
+
+                            <input class="card-text" id="txt_diff" name="txt_diff" value=@Model.difficulty>
+                            </input>
+                            <br />
+                            <label>Number of Likes</label>
+
+                            <input class="card-text" id="txt_nol" name="txt_nol" value=@Model.numberOfLikes>
+                            </input>
+                            <br />
+                            <label>Tips And Tricks</label>
+
+                            <input class="card-text" id="txt_tat" name="txt_tat" value=@Model.tipsAndTricks>
+                            </input>
+                            <br />
+                            <a asp-controller="Home" onclick="updateRecipe()" asp-action="Edit" asp-route-id="@Model.Id" asp-route-name="New Name"  class="btn btn-primary">Edit</a>
+                            
+                            </form>
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>
+
+

@@ -1,0 +1,56 @@
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/bin/Debug/netcoreapp2.0/package.json
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/bin/Debug/netcoreapp2.0/RecipeApp.WebUI.deps.json
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/bin/Debug/netcoreapp2.0/RecipeApp.WebUI.runtimeconfig.json
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/bin/Debug/netcoreapp2.0/RecipeApp.WebUI.runtimeconfig.dev.json
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/bin/Debug/netcoreapp2.0/RecipeApp.WebUI.dll
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/bin/Debug/netcoreapp2.0/RecipeApp.WebUI.pdb
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.csproj.AssemblyReference.cache
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.AssemblyInfoInputs.cache
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.AssemblyInfo.cs
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.csproj.CoreCompileInputs.cache
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.dll
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.pdb
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.genruntimeconfig.cache
+/Users/nihalsk/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/bin/Debug/netcoreapp2.0/package.json
+/Users/nihalsk/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/bin/Debug/netcoreapp2.0/RecipeApp.WebUI.deps.json
+/Users/nihalsk/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/bin/Debug/netcoreapp2.0/RecipeApp.WebUI.runtimeconfig.json
+/Users/nihalsk/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/bin/Debug/netcoreapp2.0/RecipeApp.WebUI.runtimeconfig.dev.json
+/Users/nihalsk/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/bin/Debug/netcoreapp2.0/RecipeApp.WebUI.dll
+/Users/nihalsk/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/bin/Debug/netcoreapp2.0/RecipeApp.WebUI.pdb
+/Users/nihalsk/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.csproj.AssemblyReference.cache
+/Users/nihalsk/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalsk/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.AssemblyInfoInputs.cache
+/Users/nihalsk/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.AssemblyInfo.cs
+/Users/nihalsk/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.csproj.CoreCompileInputs.cache
+/Users/nihalsk/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.dll
+/Users/nihalsk/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.pdb
+/Users/nihalsk/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.genruntimeconfig.cache
+/Users/nihalsk/Desktop/asd/MovieApp.WebUI/bin/Debug/netcoreapp2.0/package.json
+/Users/nihalsk/Desktop/asd/MovieApp.WebUI/bin/Debug/netcoreapp2.0/RecipeApp.WebUI.deps.json
+/Users/nihalsk/Desktop/asd/MovieApp.WebUI/bin/Debug/netcoreapp2.0/RecipeApp.WebUI.runtimeconfig.json
+/Users/nihalsk/Desktop/asd/MovieApp.WebUI/bin/Debug/netcoreapp2.0/RecipeApp.WebUI.runtimeconfig.dev.json
+/Users/nihalsk/Desktop/asd/MovieApp.WebUI/bin/Debug/netcoreapp2.0/RecipeApp.WebUI.dll
+/Users/nihalsk/Desktop/asd/MovieApp.WebUI/bin/Debug/netcoreapp2.0/RecipeApp.WebUI.pdb
+/Users/nihalsk/Desktop/asd/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.csproj.AssemblyReference.cache
+/Users/nihalsk/Desktop/asd/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalsk/Desktop/asd/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.AssemblyInfoInputs.cache
+/Users/nihalsk/Desktop/asd/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.AssemblyInfo.cs
+/Users/nihalsk/Desktop/asd/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.csproj.CoreCompileInputs.cache
+/Users/nihalsk/Desktop/asd/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.dll
+/Users/nihalsk/Desktop/asd/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.pdb
+/Users/nihalsk/Desktop/asd/MovieApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.genruntimeconfig.cache
+/Users/nihalsk/Desktop/eskimaster/asd 2/RecipeApp.WebUI/bin/Debug/netcoreapp2.0/package.json
+/Users/nihalsk/Desktop/eskimaster/asd 2/RecipeApp.WebUI/bin/Debug/netcoreapp2.0/RecipeApp.WebUI.deps.json
+/Users/nihalsk/Desktop/eskimaster/asd 2/RecipeApp.WebUI/bin/Debug/netcoreapp2.0/RecipeApp.WebUI.runtimeconfig.json
+/Users/nihalsk/Desktop/eskimaster/asd 2/RecipeApp.WebUI/bin/Debug/netcoreapp2.0/RecipeApp.WebUI.runtimeconfig.dev.json
+/Users/nihalsk/Desktop/eskimaster/asd 2/RecipeApp.WebUI/bin/Debug/netcoreapp2.0/RecipeApp.WebUI.dll
+/Users/nihalsk/Desktop/eskimaster/asd 2/RecipeApp.WebUI/bin/Debug/netcoreapp2.0/RecipeApp.WebUI.pdb
+/Users/nihalsk/Desktop/eskimaster/asd 2/RecipeApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.csproj.AssemblyReference.cache
+/Users/nihalsk/Desktop/eskimaster/asd 2/RecipeApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalsk/Desktop/eskimaster/asd 2/RecipeApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.AssemblyInfoInputs.cache
+/Users/nihalsk/Desktop/eskimaster/asd 2/RecipeApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.AssemblyInfo.cs
+/Users/nihalsk/Desktop/eskimaster/asd 2/RecipeApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.csproj.CoreCompileInputs.cache
+/Users/nihalsk/Desktop/eskimaster/asd 2/RecipeApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.dll
+/Users/nihalsk/Desktop/eskimaster/asd 2/RecipeApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.pdb
+/Users/nihalsk/Desktop/eskimaster/asd 2/RecipeApp.WebUI/obj/Debug/netcoreapp2.0/RecipeApp.WebUI.genruntimeconfig.cache

@@ -1,0 +1,160 @@
+﻿@model IEnumerable<Recipe>
+@{
+    ViewData["Title"] = "Search";
+
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+    * {
+         box-sizing: border-box;
+    }
+    .isVisible{
+         display: none;
+    }
+    #myInput {
+         background-image: url('https://www.w3schools.com/css/searchicon.png');
+         background-position: 10px 12px;
+         background-repeat: no-repeat;
+         width: 100%;
+         font-size: 16px;
+         padding: 12px 20px 12px 40px;
+         border: 1px solid #ddd;
+         margin-bottom: 12px;
+    }
+    #myUL {
+         list-style-type: none;
+         padding: 0;
+         margin: 0;
+    }
+    #myUL li p {
+         margin-top: -1px;
+         background-color: #f6f6f6;
+         padding: 12px;
+         text-decoration: none;
+         font-size: 18px;
+         color: black;
+         display: inline-block;
+    }
+    #myUL li a:hover:not(.header) {
+         background-color: darkblue;
+    }
+    #myUL li {
+         border: 1px solid #ddd;
+         margin-top: -1px;
+         background-color: #f6f6f6;
+         padding: 5px;
+    }
+    .btn-primary {
+         color: #fff !important;
+    }
+ 
+</style>
+</head>
+<body>
+
+    <div class="container mt-5">
+        <div class="row">
+
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-body">
+                        <h2>Search For Recipes</h2>
+
+                        <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for recipe names..">
+
+                        <ul id="myUL">
+                            @foreach (var item in Model)
+                            {
+                            <li>
+                                <p href="#">@item.Name</p>
+                                <a  onclick="VisibilityBool(@item.Id)" class=" detailBtn btn btn-primary">Show Detail</a>
+                                <a asp-controller="Home" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-primary">Delete</a>
+
+                                <div class="col-md-16 isVisible">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <h2>@item.Name</h2>
+                                                    <p id="time_id" class="card-text" style="color:red">
+                                                        @item.time
+                                                    </p>
+                                                    <p id="ingredients_id" class="card-text" style="color:green">
+                                                        Ingredients: @item.ingredients
+                                                    </p>
+                                                    <p id="Description_id" class="card-text">
+                                                        Description: @item.Description
+                                                    </p>
+                                                    <p id="difficulty_id" class="card-text" style="color:blue">
+                                                        Difficulty: @item.difficulty
+                                                    </p>
+                                                    <p id="numberOfLikes_id" class="card-text" style="color:salmon">
+                                                        Number of Likes: @item.numberOfLikes
+                                                    </p>
+                                                    <p id="tipsAndTricks_id" class="card-text" style="color:purple">
+                                                        @item.tipsAndTricks
+                                                    </p>
+                                              
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            }
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+           
+
+
+        </div>
+    </div>
+
+
+
+  
+
+    <script>
+        var i = 0;
+        function myFunction() {
+            var input, filter, ul, li, a, i, txtValue;
+            input = document.getElementById("myInput");
+            filter = input.value.toUpperCase();
+            ul = document.getElementById("myUL");
+            li = ul.getElementsByTagName("li");
+            for (i = 0; i < li.length; i++) {
+                a = li[i].getElementsByTagName("p")[0];
+                txtValue = a.textContent || a.innerText;
+                if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                    li[i].style.display = "";
+                } else {
+                    li[i].style.display = "none";
+                }
+            }
+        }
+        function VisibilityBool(parameter) {
+            i = i + 1;
+
+            if (i % 2 == 1) {
+                document.getElementsByClassName("isVisible")[parameter - 1].style.display = "block";
+                document.getElementsByClassName("detailBtn")[parameter - 1].innerHTML = "Hide"
+            }
+
+            if (i % 2 == 0) {
+                document.getElementsByClassName("isVisible")[parameter - 1].style.display = "none";
+                document.getElementsByClassName("detailBtn")[parameter - 1].innerHTML = "Show"
+
+            }
+        }
+
+    </script>
+
+</body>
+</html>

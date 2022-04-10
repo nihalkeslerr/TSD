@@ -1,0 +1,14 @@
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/bin/Debug/netcoreapp2.0/package.json
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/bin/Debug/netcoreapp2.0/MovieApp.WebUI.deps.json
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/bin/Debug/netcoreapp2.0/MovieApp.WebUI.runtimeconfig.json
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/bin/Debug/netcoreapp2.0/MovieApp.WebUI.runtimeconfig.dev.json
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/bin/Debug/netcoreapp2.0/MovieApp.WebUI.dll
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/bin/Debug/netcoreapp2.0/MovieApp.WebUI.pdb
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/MovieApp.WebUI.csproj.AssemblyReference.cache
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/MovieApp.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/MovieApp.WebUI.AssemblyInfoInputs.cache
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/MovieApp.WebUI.AssemblyInfo.cs
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/MovieApp.WebUI.csproj.CoreCompileInputs.cache
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/MovieApp.WebUI.dll
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/MovieApp.WebUI.pdb
+/Users/hilaloruc/Desktop/Asp.Net.Core.MVC-Movie-App-Tutorial-master/MovieApp.WebUI/obj/Debug/netcoreapp2.0/MovieApp.WebUI.genruntimeconfig.cache

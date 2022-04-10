@@ -1,0 +1,8 @@
+﻿@model Recipe
+@{
+    ViewData["Title"] = "Edit";
+    RecipeRepository.DeleteRecipe(Model);
+    
+}
+
+  <p style="padding: 50px; background-color: #caf5ca; color: #084608; font-weight: 900; text-align: center; font-size: 66px;">Deleted</p>

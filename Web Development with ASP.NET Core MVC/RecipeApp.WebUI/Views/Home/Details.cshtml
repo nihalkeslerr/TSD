@@ -1,0 +1,40 @@
+﻿@model Recipe
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+    <div class="container mt-5">
+        <div class="row">
+
+            <div class="col-md-8">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">@Model.Name</h5>
+                        <p class="card-text" style="color:red">
+                            @Model.time
+                        </p>
+                        <p class="card-text" style="color:green">
+                           Ingredients: @Model.ingredients
+                        </p>
+                        <p class="card-text">
+                            Description: @Model.Description
+                        </p>
+                        <p class="card-text" style="color:blue">
+                            Difficulty: @Model.difficulty
+                        </p>
+                        <p class="card-text" style="color:salmon">
+                            Number of Likes: @Model.numberOfLikes
+                        </p>
+                        <p class="card-text" style="color:purple">
+                            @Model.tipsAndTricks
+                        </p>
+
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>
+
+
